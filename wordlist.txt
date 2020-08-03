@@ -1,0 +1,11 @@
+AUROC
+ROC
+AUC
+ROC-AUC
+AUC-ROC
+area under the curve of the ROC analysis
+Receiver operating characteristic
+area under the curve of the receiver operating characteristic
+Performance Characteristics
+Diagnostic performance
+Area
